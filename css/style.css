@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700;900&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.banner h1{
+    font-weight: 700;
+}
+.banner{
+    padding: 5em 4em;
+    text-align: center;
+}
+.hero-banner-section{
+    margin-top: 50px;
+}
+.btn-color{
+    background-color: aqua;
+    padding: 10px 15px;
+
+}
+.btn-color:hover{
+    background-color: aqua;
+}
+.banner p span{
+    margin-right: 10px;
+}
